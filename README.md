@@ -1,3 +1,4 @@
 # Service-Monitor
-A cross platform Service Monitor to detect changing processes.\n
- for explainations and instructions please read the .docx file.
+A cross platform Service Monitor to detect changing processes.
+
+for explainations and instructions please read the .docx file.
